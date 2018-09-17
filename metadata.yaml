@@ -1,0 +1,30 @@
+_repo: Unvarnished-Tales_52029
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackay, William
+    birthdate: 1846
+    gutenberg_agent_id: '49082'
+    url: http://www.gutenberg.org/2009/agents/49082
+description: ''
+gutenberg_issued: '2016-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: A queer quest -- The Sawdust man's curse -- Lord Lundy's snuff-box
+  -- "One was rent and left to die" -- The Grigsby living -- Res est sacra miser --
+  Mr. Grey -- The prodigal's return -- A philanthropic "masher" -- A dishonoured bill
+  -- A man of genius -- A dignified dipsomaniac -- "Old Boots" -- A missing heiress
+  -- Teddy Martin's brief -- Bluebeard's cupboard -- True to poll -- John Philp, master
+  carpenter -- Pictures on the line -- The devil's playthings -- Love and a diary.
+title: Unvarnished Tales
+url: http://www.gutenberg.org/ebooks/52029
